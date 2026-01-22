@@ -14,3 +14,4 @@ CSESRoutes2.py - Answer shortest path queries between all pairs of cities (Floyd
 CSESTeam.py - Divide pupils into two teams so that no two friends are on the same team (bipartite check).
 CSESTunnel.py - Find the maximum score from room 1 to n, or detect arbitrarily large score (Bellman-Ford).
 LongJumps.py - Find the maximum sum by jumping through an array using jump values at each index.
+CSESBuildRoad.py - Find the minimal total cost to repair roads so all cities are connected (Minimum Spanning Tree).
