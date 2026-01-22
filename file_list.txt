@@ -1,0 +1,16 @@
+CSESFlightDisc.py - Find the minimum price from Syrjälä to Metsälä using one discount coupon on a flight.
+CSESFourquestions.py - Find min price, number of min-price routes, and min/max flights from Syrjälä to Lehmälä.
+CSESGameRoutes.py - Count the number of distinct paths from level 1 to level n in a DAG.
+CSESLabyrint.py - Find a path from start to end in a labyrinth grid.
+CSESLongestFlight.py - Find the longest path from city 1 to city n in a DAG.
+CSESMessage.py - Find the shortest path from computer 1 to n and print the path or IMPOSSIBLE.
+CSESMonsters.py - Escape a labyrinth from A to a boundary before monsters can reach you.
+CSESNegCycle.py - Detect and print a negative cycle in a directed graph if one exists.
+CSESRoom.py - Count the number of rooms (connected floor regions) in a grid.
+CSESRoundTrip.py - Find a round trip (cycle) in an undirected graph.
+CSESRoundtrip2.py - Topological sort: find a valid course order or print IMPOSSIBLE if a cycle exists.
+CSESRoute1.py - Find the shortest route from Syrjälä to every city (Dijkstra's algorithm).
+CSESRoutes2.py - Answer shortest path queries between all pairs of cities (Floyd-Warshall or Dijkstra).
+CSESTeam.py - Divide pupils into two teams so that no two friends are on the same team (bipartite check).
+CSESTunnel.py - Find the maximum score from room 1 to n, or detect arbitrarily large score (Bellman-Ford).
+LongJumps.py - Find the maximum sum by jumping through an array using jump values at each index.
