@@ -15,3 +15,5 @@ CSESTeam.py - Divide pupils into two teams so that no two friends are on the sam
 CSESTunnel.py - Find the maximum score from room 1 to n, or detect arbitrarily large score (Bellman-Ford).
 LongJumps.py - Find the maximum sum by jumping through an array using jump values at each index.
 CSESBuildRoad.py - Find the minimal total cost to repair roads so all cities are connected (Minimum Spanning Tree).
+CSESRoadRepair.py - Find the minimum total reparation cost to connect all cities (Minimum Spanning Tree).
+CSESRoadConst.py - Find the number of connected components and largest component size after each new road (Union-Find).
