@@ -1,3 +1,6 @@
+LoveTriangle.py - Check if there exists a love triangle among planes, where each plane likes another and forms a cycle of length 3.
+Metro.py - Determine if Bob can reach Alice's station using the metro, considering open/closed stations and both directions.
+CSESFlightCheck.py - Check if all cities are mutually reachable. If not, print a pair of cities a, b such that you cannot travel from a to b.
 CSESFlightDisc.py - Find the minimum price from Syrjälä to Metsälä using one discount coupon on a flight.
 CSESFourquestions.py - Find min price, number of min-price routes, and min/max flights from Syrjälä to Lehmälä.
 CSESGameRoutes.py - Count the number of distinct paths from level 1 to level n in a DAG.
@@ -14,6 +17,7 @@ CSESRoutes2.py - Answer shortest path queries between all pairs of cities (Floyd
 CSESTeam.py - Divide pupils into two teams so that no two friends are on the same team (bipartite check).
 CSESTunnel.py - Find the maximum score from room 1 to n, or detect arbitrarily large score (Bellman-Ford).
 LongJumps.py - Find the maximum sum by jumping through an array using jump values at each index.
-CSESBuildRoad.py - Find the minimal total cost to repair roads so all cities are connected (Minimum Spanning Tree).
+CSESBuildRoad.py - Find the minimum number of roads required to connect all cities, and print which roads to build.
 CSESRoadRepair.py - Find the minimum total reparation cost to connect all cities (Minimum Spanning Tree).
 CSESRoadConst.py - Find the number of connected components and largest component size after each new road (Union-Find).
+CSESFlightRoute.py - Find the k shortest flight routes from Syrjälä to Metsälä, allowing repeated cities, and print their prices in order.
